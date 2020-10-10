@@ -29,7 +29,7 @@
 
 ### 许可
 
-本项目使用 Mozilla Public License ( MPL ) 开源许可证，任何人都可以在开源的条件下自由使用本项目，若对源代码产生修改，必须在本仓库 issues 栏目提供说明文档。
+本项目使用 [Mozilla Public License](https://github.com/max-studio/CMT_CS_Learning/blob/main/LICENSE) ( MPL ) 开源许可证，任何人都可以在开源的条件下自由使用本项目，若对源代码产生修改，必须在本仓库 issues 栏目提供说明文档。
 
 
 
