@@ -6,7 +6,7 @@
 
 如果需要下载单个文件夹下的文件，请复制该文件夹下的 URL ，粘贴到 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，选择 Download 即可！
 
-如果觉得有帮助，可以到本仓库点个 star！ 如果有产生侵权行为，也请在本仓库的 issues 栏提出！
+如果觉得有帮助，可以到本仓库点个 star！ 如果有产生侵权行为，也请在本仓库的 issues 栏提出！我们将会在仓库内彻底清除您的文件！
 
 ### 项目简介
 
