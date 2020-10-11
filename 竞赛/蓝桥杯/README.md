@@ -64,17 +64,15 @@
 
    [2020-第十一届蓝桥杯大赛个人赛省赛（软件类-七月份）真题 (C/C++)大学B组](https://blog.csdn.net/weixin_43381566/article/details/108867116)
 
-3. 省赛C组：
+3. 省赛C组：		
 
-​		[2015-第六届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组](https://www.cnblogs.com/Marginalin/p/12574116.html)
+   [2015-第六届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组](https://www.cnblogs.com/Marginalin/p/12574116.html)
 
-​		[2016-第七届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组](https://www.cnblogs.com/Marginalin/p/12609827.html)
+   [2016-第七届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组](https://www.cnblogs.com/Marginalin/p/12609827.html)
 
-​		[2017-第八届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组](https://www.cnblogs.com/Marginalin/p/12505121.html)
+   [2017-第八届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组](https://www.cnblogs.com/Marginalin/p/12505121.html)[2018-第九届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组](https://www.cnblogs.com/Marginalin/p/12500055.html) 
 
-​		[2018-第九届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组](https://www.cnblogs.com/Marginalin/p/12500055.html)
-
-​		2019-第十届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组
+   2019-第十届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组
 
 ## 其他
 
