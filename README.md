@@ -2,11 +2,11 @@
 
 文章链接：[CMT_CS_Learning](https://github.com/max-studio/CMT_CS_Learning)
 
-本项目受[西安电子科技大学相关项目](https://github.com/baolintian/XDU_CS_Learning)启发，初衷是为了弥补弱校的信息差和提供优质的学习资源，我们邀请了 CMT 历届校友及在校生编撰的大学通关攻略，并且寄希望能够切实地帮助到学弟学妹们。
+本项目受[西安电子科技大学相关项目](https://github.com/baolintian/XDU_CS_Learning)启发，初衷是为了弥补弱校同学之间的信息差和提供优质的学习资源，我们邀请了 CMT 历届校友及在校生编撰的大学通关攻略，并且寄希望能够切实地帮助到学弟学妹们。
 
 如果需要下载单个文件夹下的软件，请复制该文件夹下的 URL ，粘贴到 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，选择 Download 即可！
 
-如果觉得有帮助，可以到本仓库点个star！ 如果有产生侵权行为，请在本仓库的 issues 栏提出！
+如果觉得有帮助，可以到本仓库点个star！ 如果有产生侵权行为，也请在本仓库的 issues 栏提出！
 
 ### 项目初衷
 
