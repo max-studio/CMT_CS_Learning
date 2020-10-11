@@ -70,7 +70,9 @@
 
    [2016-第七届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组](https://www.cnblogs.com/Marginalin/p/12609827.html)
 
-   [2017-第八届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组](https://www.cnblogs.com/Marginalin/p/12505121.html)[2018-第九届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组](https://www.cnblogs.com/Marginalin/p/12500055.html) 
+   [2017-第八届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组](https://www.cnblogs.com/Marginalin/p/12505121.html)
+
+   [2018-第九届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组](https://www.cnblogs.com/Marginalin/p/12500055.html) 
 
    2019-第十届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学C组
 
