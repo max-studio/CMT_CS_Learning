@@ -1,8 +1,8 @@
 # CMT_CS_Learning
 
-文章链接：[CMT_CS_Learning](https://github.com/max-studio/CMT_CS_Learning)
-
 ![MIT-2.0](https://img.shields.io/github/license/max-studio/CMT_CS_Learning)
+
+文章链接：[CMT_CS_Learning](https://github.com/max-studio/CMT_CS_Learning)
 
 本项目受[西安电子科技大学相关项目](https://github.com/baolintian/XDU_CS_Learning)启发，初衷是为了弥补弱校同学之间的信息差和提供优质的学习资源，我们邀请了 CMT 历届校友及在校生编撰的大学通关攻略，并且寄希望能够切实地帮助到学弟学妹们。
 
