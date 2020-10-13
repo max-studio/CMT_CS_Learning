@@ -21,9 +21,9 @@
 
 ## 目录
 
-本项目收录的内容参见 [收录内容](https://github.com/max-studio/CMT_CS_Learning/blob/main/%E6%94%B6%E5%BD%95%E5%86%85%E5%AE%B9.md)
+本项目收录的内容参见 [收录内容](./收录内容.md)
 
-本项目使用的参考书目参见 [参考书目](https://github.com/max-studio/CMT_CS_Learning/blob/main/%E5%8F%82%E8%80%83%E4%B9%A6%E7%9B%AE.md)
+本项目使用的参考书目参见 [参考书目](./参考书目.md)
 
 ## 版本变化
 
