@@ -1,1 +1,58 @@
-null
+# 蓝桥杯相关资料
+
+## 本校蓝桥杯
+
+本校蓝桥杯报名时间大概是在每年的 11~12 月份（一般辅导员也会通知），在进行省赛前，校内会举行一次模拟赛（模拟赛也是有排名的）。在准备的时候可以做一些关于深度优先搜索、广度优先搜索和基础图论问题，这算是必考题型；对于考题模式是前 5 道题为填空题（没有程序填空题了，现在填空题更偏向于数学），然后就是算法类题，前 2 道题一般都比较好做（比如所什么什么相加啊，还是比较简单的），第三道题开始就会增加难度， 在第三题往后会涉及一些数据结构的东西（蓝桥杯还是比较喜欢考察搜索和基础动态规划的），除此之外一定要熟悉的使用文件读写操作，有些题目会以把一个文档甩给你，需要使用代码把数据从文档中读出来进行计算。
+
+## 历年考题
+
+1. 省赛 A 组：
+
+   [2015-第六届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学 A 组](https://www.cnblogs.com/Marginalin/p/12482655.html)
+
+   [2016-第七届蓝桥杯大赛个人赛省赛（软件类）真题  (C/C++) 大学 A 组](https://www.cnblogs.com/Marginalin/p/12603466.html)
+
+   [2017-第八届蓝桥杯大赛个人赛省赛（软件类）真题  (C/C++)大学 A 组](https://www.cnblogs.com/Marginalin/p/12641742.html)
+
+   [2018-第九届蓝桥杯大赛个人赛省赛（软件类）真题  (C/C++)大学 A 组](https://www.cnblogs.com/Marginalin/p/12809801.html)
+
+   [2019-第十届蓝桥杯大赛个人赛省赛（软件类）真题  (C/C++)大学 A 组](https://blog.csdn.net/qq_36306833/article/details/88787806)
+
+   2020-第十一届蓝桥杯大赛个人赛省赛（软件类）真题  (C/C++)大学 A 组
+
+2. 省赛 B 组：
+
+   [2015-第六届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++) 大学 B 组](https://www.cnblogs.com/Marginalin/p/12577531.html)
+
+   [2016-第七届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++) 大学 B 组](https://www.cnblogs.com/Marginalin/p/12609573.html)
+
+   [2017-第八届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++) 大学 B 组](https://www.cnblogs.com/Marginalin/p/12642419.html)
+
+   [2018-第九届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学 B 组](https://www.cnblogs.com/Marginalin/p/12810087.html)
+
+   [2019-第十届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学 B 组](https://cloud.tencent.com/developer/article/1408608)
+
+   [2020-第十一届蓝桥杯大赛个人赛省赛（软件类-七月份）真题 (C/C++) 大学 B 组](https://blog.csdn.net/weixin_43381566/article/details/108867116)
+
+3. 省赛 C 组：		
+
+   [2015-第六届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++) 大学 C 组](https://www.cnblogs.com/Marginalin/p/12574116.html)
+
+   [2016-第七届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++) 大学 C 组](https://www.cnblogs.com/Marginalin/p/12609827.html)
+
+   [2017-第八届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++) 大学 C 组](https://www.cnblogs.com/Marginalin/p/12505121.html)
+
+   [2018-第九届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++)大学 C 组](https://www.cnblogs.com/Marginalin/p/12500055.html) 
+
+   2019-第十届蓝桥杯大赛个人赛省赛（软件类）真题 (C/C++) 大学 C 组
+
+## 其他
+
+[官网链接](http://dasai.lanqiao.cn/)
+
+[历届真题(无答案)](http://dasai.lanqiao.cn/pages/dasai/news_detail_w.html?id=1820)
+
+​		
+
+
+​        
