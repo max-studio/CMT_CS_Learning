@@ -4,7 +4,7 @@
 
 2.include  与 required 的区别？
 
-3.empty()函数判断 null ,0,及''和 false 时会返回什么？
+3.empty()函数判断 null ,  0,及 '' 和 false 时会返回什么？
 
 4.抽象类和接口的区别?
 
