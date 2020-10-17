@@ -8,7 +8,7 @@
 
 如果需要下载单个文件夹下的文件，请复制该文件夹下的 URL ，粘贴到 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，选择 Download 即可！
 
-如果觉得有帮助，可以到本仓库点个 star！ 如果有产生侵权行为，也请在本仓库的 issues 栏提出！我们将会在仓库内彻底清除您的文件！
+如果觉得有帮助，可以到本仓库点个 star ！ 如果有产生侵权行为，也请在本仓库的 [issues](https://github.com/max-studio/CMT_CS_Learning/issues) 栏提出！我们将会在仓库内彻底清除您的文件！
 
 ## 项目简介
 
@@ -44,10 +44,11 @@
 - 项目是完全非盈利性质的，且始终秉承自愿参与的原则，所以应当感谢每一位贡献者！
 - 开源需要耕耘，短期参与可能是无意义的，长期投入应该可以发挥一点影响力，以求帮助到更多的人。
 - 若希望为本项目出一份力，请阅读[贡献文档](./贡献文档.md)，我们将会引导每一位萌新如何参与开源、享受开源。
+- 资料仅供参考，请自己判断其适用性。
 
 ## 许可
 
-本项目使用 [Mozilla Public License](https://github.com/max-studio/CMT_CS_Learning/blob/main/LICENSE) ( MPL ) 开源许可证，任何人都可以在开源的条件下自由使用本项目，若对源代码产生修改，必须在本仓库 issues 栏目提供说明文档。
+本项目使用 [Mozilla Public License](https://github.com/max-studio/CMT_CS_Learning/blob/main/LICENSE) ( MPL ) 开源许可证，任何人都可以在开源的条件下自由使用本项目，若对源代码产生修改，必须在本仓库 [issues](https://github.com/max-studio/CMT_CS_Learning/issues) 栏目提供说明文档。
 
 
 
