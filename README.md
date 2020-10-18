@@ -27,7 +27,7 @@
 
 ## 版本变化
 
- v1.0（ October, 9th )
+ v1.0-alpha（ October, 9th )
 
 ------
 
