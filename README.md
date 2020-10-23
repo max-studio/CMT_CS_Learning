@@ -35,6 +35,12 @@
 - 使用 GitHub + Gitee 双版本仓库，为网络不顺畅的同学提供便利
 - 迭代完善和优化现有的文档结构
 
+v1.0-Gray release ( October, 22th)
+
+------
+
+- 灰度测试调研报告
+
 ## 贡献（按参与时间顺序排列）
 
 [@sunlingbot](https://github.com/orgs/max-studio/people/sunlingbot), [@QuentinHsu](https://github.com/orgs/max-studio/people/QuentinHsu), [@Mu-lnz](https://github.com/orgs/max-studio/people/Mu-lnz), [@hmm1313133](https://github.com/orgs/max-studio/people/hmm1313133)
