@@ -39,7 +39,7 @@
 
 ## 贡献（按参与时间顺序排列）
 
-[@sunlingbot](https://github.com/orgs/max-studio/people/sunlingbot), [@QuentinHsu](https://github.com/orgs/max-studio/people/QuentinHsu), [@Mu-lnz](https://github.com/orgs/max-studio/people/Mu-lnz), [@hmm1313133](https://github.com/orgs/max-studio/people/hmm1313133)
+[@sunlingbot](https://github.com/orgs/max-studio/people/sunlingbot), [@QuentinHsu](https://github.com/orgs/max-studio/people/QuentinHsu), [@Mu-lnz](https://github.com/orgs/max-studio/people/Mu-lnz), [@hmm1313133](https://github.com/orgs/max-studio/people/hmm1313133), [@chczy1](https://github.com/chczy1)
 
 ## FAQ
 
