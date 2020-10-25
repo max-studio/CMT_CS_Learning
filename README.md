@@ -28,6 +28,7 @@
 ## 版本变化
 
  v1.0-alpha（ October, 9th )
+ 
 ------
 
 - 撰写竞赛、工作、升学三大板块的文档，收录 2020 届毕业论文及相关资源
@@ -35,6 +36,7 @@
 - 迭代完善和优化现有的文档结构
 
 v1.0-Gray-test ( October, 22th)
+
 ------
 
 - [灰度测试调研报告](https://github.com/max-studio/CMT_CS_Learning/wiki/Gray-test)
