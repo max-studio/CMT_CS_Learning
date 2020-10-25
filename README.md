@@ -39,7 +39,7 @@ v1.0-Gray release ( October, 22th)
 
 ------
 
-- 灰度测试调研报告
+- [灰度测试调研报告](https://github.com/max-studio/CMT_CS_Learning/wiki/Gray-test)
 
 ## 贡献（按参与时间顺序排列）
 
