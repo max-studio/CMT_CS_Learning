@@ -1,0 +1,6 @@
+# A gitignore file specifies intentionally untracked files that Git should ignore. Files already tracked by Git are not affected;
+# .gitignore 文件指定 Git 应该忽略的故意取消跟踪的文件。已经被 Git 跟踪的文件不会受到影响;
+
+# 编辑器配置文件
+.obsidian
+
