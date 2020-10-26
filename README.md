@@ -21,7 +21,7 @@
 
 ## 目录
 
-本项目的贡献者名单参见 [Contributors.md](./Contributors.md)
+本项目的贡献者名单参见 [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 本项目收录的内容参见 [收录内容](./收录内容.md)
 
