@@ -69,7 +69,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://segmentfault.com/u/sunlingbot"><img src="https://avatars0.githubusercontent.com/u/29606689?v=4" width="100px;" alt=""/><br /><sub><b>Nakano Hane</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/pulls?q=is%3Apr+reviewed-by%3Asunlingbot" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://segmentfault.com/u/sunlingbot"><img src="https://avatars0.githubusercontent.com/u/29606689?v=4" width="100px;" alt=""/><br /><sub><b>Nakano Hane</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/pulls?q=is%3Apr+reviewed-by%3Asunlingbot" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=sunlingbot" title="Documentation">📖</a></td>
   </tr>
 </table>
 
