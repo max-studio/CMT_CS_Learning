@@ -13,6 +13,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "QuentinHsu",
+      "name": "Quentin",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/21162238?v=4",
+      "profile": "https://github.com/QuentinHsu",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
