@@ -57,14 +57,6 @@ v1.0-alpha（ October, 9th )
 - 使用 GitHub + Gitee 双版本仓库，为网络不顺畅的同学提供便利
 - 迭代完善和优化现有的文档结构
 
-## 贡献（按参与时间顺序排列）
-
-[@sunlingbot](https://github.com/orgs/max-studio/people/sunlingbot),
-[@QuentinHsu](https://github.com/orgs/max-studio/people/QuentinHsu),
-[@Mu-lnz](https://github.com/orgs/max-studio/people/Mu-lnz),
-[@hmm1313133](https://github.com/orgs/max-studio/people/hmm1313133),
-[@chczy1](https://github.com/chczy1)
-
 ## FAQ
 
 - 项目是完全非盈利性质的，且始终秉承自愿参与的原则，所以应当感谢每一位贡献者！
