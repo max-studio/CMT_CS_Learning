@@ -54,6 +54,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Liuary",
+      "name": "Liuary",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44187975?v=4",
+      "profile": "https://github.com/Liuary",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
