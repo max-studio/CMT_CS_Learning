@@ -5,7 +5,7 @@
 ![MIT-2.0](https://img.shields.io/github/license/max-studio/CMT_CS_Learning)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 文章链接：[CMT_CS_Learning](https://github.com/max-studio/CMT_CS_Learning)
@@ -95,6 +95,7 @@ Thanks goes to these wonderful people
   <tr>
     <td align="center"><a href="https://segmentfault.com/u/sunlingbot"><img src="https://avatars0.githubusercontent.com/u/29606689?v=4" width="100px;" alt=""/><br /><sub><b>Nakano Hane</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/pulls?q=is%3Apr+reviewed-by%3Asunlingbot" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/QuentinHsu"><img src="https://avatars0.githubusercontent.com/u/21162238?v=4" width="100px;" alt=""/><br /><sub><b>Quentin</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=QuentinHsu" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Mu-lnz"><img src="https://avatars3.githubusercontent.com/u/50538991?v=4" width="100px;" alt=""/><br /><sub><b>Muiii</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=Mu-lnz" title="Documentation">📖</a></td>
   </tr>
 </table>
 
