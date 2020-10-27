@@ -1,9 +1,9 @@
 # CMT_CS_Learning
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+
+![pr](https://img.shields.io/github/issues-pr-closed/max-studio/CMT_CS_Learning) ![size](https://img.shields.io/github/repo-size/max-studio/CMT_CS_Learning) ![MIT-2.0](https://img.shields.io/github/license/max-studio/CMT_CS_Learning) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-![pr](https://img.shields.io/github/issues-pr-closed/max-studio/CMT_CS_Learning) ![size](https://img.shields.io/github/repo-size/max-studio/CMT_CS_Learning) ![MIT-2.0](https://img.shields.io/github/license/max-studio/CMT_CS_Learning) 
 
 文章链接：[CMT_CS_Learning](https://github.com/max-studio/CMT_CS_Learning)
 
