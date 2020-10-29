@@ -28,7 +28,7 @@
 
 ## 结语
 
-以上就是 `all-contributors bot` 的使用方法，如果您还是不懂如何使用 `bot` 添加自己所作的贡献，也可以在 issue 栏向管理员提出您的请求，由管理员帮助您添加到 Contributors 中！
+以上就是 `all-contributors bot` 的使用方法，如果您仍然不会使用它，也可以在 issue 栏向管理员提出您的请求，由管理员帮助您添加到 Contributors 中！
 
 
 
