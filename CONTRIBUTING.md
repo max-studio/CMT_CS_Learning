@@ -8,15 +8,15 @@
 （请各位贡献者根据 [issue#29](https://github.com/max-studio/CMT_CS_Learning/issues/29) 的顺序在此补充您的名单和简介！）
 
 
-# 使用 All-contributors-bot 自动添加贡献者
+## 使用 All-contributors-bot 自动添加贡献者
 
 [all-contributors bot](https://allcontributors.org/docs/en/overview) 是一个 “智能的” 机器人，它被用于认可开源项目的规范，贡献不仅仅是提交代码，甚至是可以修正一个标点符号，您的贡献将会被机器人自动添加到 README 文件的 Contributors 栏目中。（就像这样！
 
 ![Contributors](Img/Contributors20201029141442.png)
 
-## 使用文档
+### 使用文档
 
-核心开发团队希望记载每个人所付出的努力，因此您的贡献不应该被遗忘，以下我们将为您解释 `bot` 的基本原理和使用方法：
+核心开发团队希望记载每个人所付出的努力，因此您的贡献不应该被遗忘，我们将为您解释 `bot` 的基本原理和使用方法：
 
   - 首先，当您提起 issue 或 pull request ( PR ) 时，您可以在评论区使用以下命令，召唤 `bot` 来记录您的贡献。其中，贡献类型可以在 [emoji-key](https://allcontributors.org/docs/en/emoji-key) 中找到。请注意，使用以下命令时用户名前需要添加 `@`，尖括号 `<>` 需要删除。
   
@@ -31,7 +31,7 @@
 
 ## 结语
 
-关于 `all-contributors bot` 的使用方法就介绍为止，即使您查阅本文档后认为还是很难领会，请不用担心，上游仓库管理员会审校您提的每一处贡献，并最大程度上尊重您的想法，将您的贡献记录在 Contributors 中！
+以上就是 `all-contributors bot` 的使用方法，如果您还是不懂如何使用 `bot` 添加自己所作的贡献，也可以在 issue 栏向管理员提出您的请求，由管理员帮助您添加到 Contributors 中！
 
 
 
