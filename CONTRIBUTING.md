@@ -23,7 +23,7 @@
     ```Markdown
     @all-contributors please add <@用户名> for <贡献> 
     ```
-  - 当您已经按照上述命令格式键入评论区并提交您的 issue 或pull request ( PR ) 时。机器人就会自动向仓库提起一条 PR ，其内容就是向 README 文件自动写入 HTML 语言定义的贡献者列表模板。
+  - 当按照上述格式键入评论区并提交您的 issue 或pull request ( PR ) 时。机器人就会自动向仓库提起一条 PR ，其内容就是向 README 文件自动写入 HTML 语言定义的贡献者列表模板。
     
     **特别注意：`bot` 是新建一条分支并向仓库提起 PR ，合并后请务必要删除这些分支，以免造成冲突！**
 
