@@ -10,12 +10,12 @@ ECS，全称实体组件系统（Entity Component System），是暴雪在 2017 
 
 在 ECS 中：
 
-Entity：管理生命周期，在ECS中仅仅是Component的组合；
+Entity：管理生命周期，在 ECS 中仅仅是 Component 的组合；
 
-Component：（纯数据组合）把每个可能单独使用的对象属性归纳为一个个的Component，每个Entity是由多个Component组成，共享一个生命周期；而不同的Component组合在一起成为了System筛选的标准；
-比如某System关心某个固定的组合，但是如果某个Entity只具备这组Component中的一部分，就不符合筛选标准；
+Component：（纯数据组合）把每个可能单独使用的对象属性归纳为一个个的 Component，每个 Entity 是由多个 Component 组成，共享一个生命周期；而不同的 Component 组合在一起成为了 System 筛选的标准；
+比如某 System 关心某个固定的组合，但是如果某个 Entity 只具备这组 Component 中的一部分，就不符合筛选标准；
 
-System：（纯方法组合）System只关心自己的某一件事情，对于每个子系统来说，它的职责是筛选出系统所关心的对象的子集以及只给它展示它所关心的数据；
+System：（纯方法组合）System 只关心自己的某一件事情，对于每个子系统来说，它的职责是筛选出系统所关心的对象的子集以及只给它展示它所关心的数据；
 
 可以简单地把 Entity 认为是传统 OOP 中的对象，把 Component 类比为某一种属性，把 System 类比为具有很多处理相关逻辑函数的类，在此之外，会有很多个 World，
 在这些 World 的每一次 tick 里，遍历这些 System，这些 System 再去处理和 Component 有关的逻辑。
@@ -25,9 +25,10 @@ System：（纯方法组合）System只关心自己的某一件事情，对于�
 
 在实际的开发中，Component 可以是单例的，比如“玩家输入”的 Component。
 
-并且，也不是所有问题都适合用 ECS 来解决的，比如在我以前的项目中，一些具有多个分支，多条时间线等复杂状态的技能，用 ECS 处理起来不如传统 OOP 编程简单，所以我们只需要在适当的地方使用他即可。
+并且，也不是所有问题都适合用 ECS 来解决的，比如在我以前的项目中，一些具有多个分支，多条时间线等复杂状态的技能，用传统的 OOP 思路解决起来会更加方便，并且在导表系统、公式系统的帮助下也不会有太高的耦合性，所以我们只需要在适当的地方使用他即可。
 
 外部链接：
-暴雪在2017GDC上的演讲视频：https://youtu.be/W3aieHjyNvw
+
+暴雪在 2017 GDC 上的演讲视频：https://youtu.be/W3aieHjyNvw
 
 云风对 ECS 的讲解：https://blog.codingnow.com/2017/06/overwatch_ecs.html
