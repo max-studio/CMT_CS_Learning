@@ -29,6 +29,6 @@ System：（纯方法组合）System 只关心自己的某一件事情，对于�
 
 外部链接：
 
-暴雪在 2017GDC 上的演讲视频：https://youtu.be/W3aieHjyNvw
+暴雪在 2017 GDC 上的演讲视频：https://youtu.be/W3aieHjyNvw
 
 云风对 ECS 的讲解：https://blog.codingnow.com/2017/06/overwatch_ecs.html
