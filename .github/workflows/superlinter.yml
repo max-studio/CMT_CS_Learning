@@ -1,7 +1,6 @@
 name: Gitee repos mirror periodic job
 
-on:
-  pull_request:
+on: push
     paths:
     - '.github/workflows/**'
     # Runs at every pull requests submitted in master branch 
