@@ -1,4 +1,4 @@
-name: Gitee repos mirror periodic job
+name: MaX.Studio Gitee repos mirror periodic job
 
 on:
   push:
@@ -26,5 +26,7 @@ jobs:
         cache_path: /github/workspace/hub-mirror-cache
         # 还有黑、白名单，静态名单机制，可以用于更新某些指定库
         # static_list: repo_name
-        # black_list: 'repo_name,repo_name2'
-        # white_list: 'repo_name,repo_name2'
+        # 白名单 repo
+        white_list: "CMT_CS_Learning"
+        # 黑名单 repo
+        black_list: "Software-Test-Basis,maxface"
