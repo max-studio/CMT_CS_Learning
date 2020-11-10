@@ -30,3 +30,4 @@ jobs:
         white_list: "CMT_CS_Learning"
         # 黑名单 repo
         black_list: "Software-Test-Basis,maxface"
+        # 取消码云禁止邮箱暴露
