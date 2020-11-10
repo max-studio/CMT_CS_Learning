@@ -5,7 +5,7 @@ on:
   # 默认 main 分支
   branches: [ main ]
   schedule:
-    # 每天北京时间 9 点跑
+    # 每小时执行
     - cron:  '0 * * * *'
 jobs:
   build:
