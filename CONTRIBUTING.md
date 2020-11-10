@@ -4,7 +4,8 @@
 请各位贡献者按照 [issue#29](https://github.com/max-studio/CMT_CS_Learning/issues/29) 的要求在此依次补充您的信息。
 
 ## [@sunlingbot](https://github.com/sunlingbot) 
-现为西安电子科技大学电子系在读学生，CMT_CS_Learning 项目发起人之一，弱鸡开源人，擅长摸鱼和传销，梦想是成为巨佬们的腿部挂件！
+
+现为西安电子科技大学电子系在校生，CMT_CS_Learning 项目发起人之一，弱鸡开源人，擅长摸鱼和传销，今年的愿望是希望中篇核心！
 
 ## 使用 All-contributors-bot 自动添加贡献者
 
