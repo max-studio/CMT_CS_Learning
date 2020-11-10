@@ -5,8 +5,8 @@ on:
   # 默认 main 分支
   branches: [ main ]
   schedule:
-    # 每小时执行
-    - cron:  '0 * * * *'
+    # 每分钟执行
+    - cron:  '* * * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
