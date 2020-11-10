@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Mirror the Github organization repos to Gitee.
-      uses: sunlingbot/hub-mirror-action@master
+      uses: Yikun/hub-mirror-action@master # Docker 镜像仓库
       with:
         # 必选，需要同步的Github用户（源）
         src: github/max-studio
