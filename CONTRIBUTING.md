@@ -1,12 +1,6 @@
 # 贡献者名单
 贡献者被定义为，在项目中为之付出过的参与者，无论贡献大小与重要程度。人们花费自己的空闲时间，以各种方式为开源项目努力，因此每个人的贡献，不管是不是代码，都应该受到赞扬。
 
-请各位贡献者按照 [issue#29](https://github.com/max-studio/CMT_CS_Learning/issues/29) 的要求在此依次补充您的信息。
-
-## [@sunlingbot](https://github.com/sunlingbot) 
-
-现为西安电子科技大学电子系在校生，CMT_CS_Learning 项目发起人之一，弱鸡开源人，擅长摸鱼和传销，今年的愿望是希望中篇核心！
-
 ## 使用 All-contributors-bot 自动添加贡献者
 
 [all-contributors bot](https://allcontributors.org/docs/en/overview) 是一个 “智能的” 机器人，它被用于认可开源项目的规范，贡献不仅仅是提交代码，甚至是可以修正一个标点符号，您的贡献将会被机器人自动添加到 README 文件的 Contributors 栏目中。（就像这样！
