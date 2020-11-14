@@ -11,13 +11,13 @@
 
 核心开发团队希望记载每个人所付出的努力，因此您的贡献不应该被遗忘，我们将为您解释 `bot` 的基本原理和使用方法：
 
-  - 首先，当您提起 issue 或 pull request ( PR ) 时，您可以在评论区使用以下命令，召唤 `bot` 来记录您的贡献。其中，贡献类型可以在 [emoji-key](https://allcontributors.org/docs/en/emoji-key) 中找到。请注意，使用以下命令时用户名前需要添加 `@`，尖括号 `<>` 需要删除。
+- 首先，当您提起 issue 或 pull request ( PR ) 时，您可以在评论区使用以下命令，召唤 `bot` 来记录您的贡献。其中，贡献类型可以在 [emoji-key](https://allcontributors.org/docs/en/emoji-key) 中找到。请注意，使用以下命令时用户名前需要添加 `@`，尖括号 `<>` 需要删除。
+ 
+```Markdown
+@all-contributors please add <@用户名> for <贡献>
+```
+- 当按照上述格式键入评论区并提交您的 issue 或pull request ( PR ) 时。机器人就会自动向仓库提起一条 PR ，其内容就是向 README 文件自动写入 HTML 语言定义的贡献者列表模板。
   
-    ```Markdown
-    @all-contributors please add <@用户名> for <贡献> 
-    ```
-  - 当按照上述格式键入评论区并提交您的 issue 或pull request ( PR ) 时。机器人就会自动向仓库提起一条 PR ，其内容就是向 README 文件自动写入 HTML 语言定义的贡献者列表模板。
-    
     **特别注意：`bot` 是新建一条分支并向仓库提起 PR ，合并后请务必要删除这些分支，以免造成冲突！**
 
     ![Contributors](Img/Contributors20201029141731.png)
