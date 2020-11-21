@@ -31,6 +31,7 @@ CMT_CS_Learning 现由项目管理委员会 ( Project Management Committee ) 进
 - ❤️ @Y334275
 - ❤️ @XiaoYu123456789
 - ❤️ @Liuary
+- ❤️ @yiqia
 
 长期休眠的核心成员列入荣誉成员，被回收管理权限，但保留投票权和历史荣誉，目前成员有：
 - 🏆 @ULTRAMANSE
