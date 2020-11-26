@@ -42,19 +42,19 @@ CMT_CS_Learning 现由项目管理委员会 ( Project Management Committee ) 进
 v1.0-alpha（ October, 9th )
 
 ---
-- 撰写竞赛、工作、升学三大板块的文档，收录 2020 届毕业论文及相关资源
-- 增加 [GitHub Actions](https://github.com/max-studio/CMT_CS_Learning/actions) 持续集成的特性，使用 GitHub + [Gitee](https://gitee.com/max-studio/CMT_CS_Learning) 双版本仓库，为网络不顺畅的同学提供便利
-- 迭代完善和优化现有的文档结构
+- 撰写竞赛、工作、升学三大板块的文档，收录 2020 届毕业论文及相关资源。
+- 增加 [GitHub Actions](https://github.com/max-studio/CMT_CS_Learning/actions) 持续集成的特性，使用 GitHub + [Gitee](https://gitee.com/max-studio/CMT_CS_Learning) 双版本仓库，为网络不顺畅的同学提供便利。
+- 迭代完善和优化现有的文档结构。
 
 v2.0-beta ( November 13th )
 
 ---
-- 扩大宣传范围，向更多的潜在贡献者发放预邀请 offer
-- 面向管理员及校对人员，编写文章校对指南
-- 新增 Travis CI Bot ，用来自动检查 Markdown 语法规范，让校对人员更专注于文章质量本身
-- 开设心路历程专栏，作为本项目的特色专栏
-- 收集计算机科学与技术和软件工程专业的培养方案，为编写课程攻略作准备
-- 开展贡献者成长激励计划，提高贡献者的参与感和身份认同感
+- 扩大宣传范围，向更多的潜在贡献者发放预邀请 offer。
+- 面向管理员及校对人员，编写文章校对指南。
+- 新增 Travis CI Bot ，用来自动检查 Markdown 语法规范，让校对人员更专注于文章质量本身。
+- 开设心路历程专栏，作为本项目的特色专栏。
+- 收集计算机科学与技术和软件工程专业的培养方案，为编写课程攻略作准备。
+- 开展贡献者成长激励计划，提高贡献者的参与感和身份认同感。
 
 ## FAQ
 
