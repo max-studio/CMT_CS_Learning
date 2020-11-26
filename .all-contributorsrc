@@ -63,6 +63,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "yiqia",
+      "name": "一奇",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/40658369?v=4",
+      "profile": "http://www.q05.cc",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
