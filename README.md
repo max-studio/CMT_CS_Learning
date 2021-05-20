@@ -21,7 +21,7 @@
 
 ## 项目管理委员会及核心成员
 CMT_CS_Learning 现由项目管理委员会 ( Project Management Committee ) 进行管理，成员如下：
-- 🎩 @sunlingbot
+- 🎩 @jianm-xs
 - 🎩 @QuentinHsu
 - 🎩 @Mu-lnz
 - 🎩 @chczy1
@@ -36,6 +36,7 @@ CMT_CS_Learning 现由项目管理委员会 ( Project Management Committee ) 进
 长期休眠的核心成员列入荣誉成员，被回收管理权限，但保留投票权和历史荣誉，目前成员有：
 - 🏆 @ULTRAMANSE
 - 🏆 @Zhang-Yixuan
+- 🏆 @sunlingbot
 
 ## 版本变化
 
