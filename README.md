@@ -89,6 +89,7 @@ v2.0-beta ( November 13th )
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/jianm-xs"><img src="https://avatars.githubusercontent.com/u/69761545?v=4?s=70" width="70px;" alt=""/><br /><sub><b>jianm-xs</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=jianm-xs" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/1937026980"><img src="https://avatars.githubusercontent.com/u/62368540?v=4?s=70" width="70px;" alt=""/><br /><sub><b>1937026980</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=1937026980" title="Documentation">📖</a></td>
   </tr>
 </table>
 
