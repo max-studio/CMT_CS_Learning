@@ -63,6 +63,33 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "yiqia",
+      "name": "一奇",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/40658369?v=4",
+      "profile": "http://www.q05.cc",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jianm-xs",
+      "name": "jianm-xs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69761545?v=4",
+      "profile": "https://github.com/jianm-xs",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "1937026980",
+      "name": "1937026980",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62368540?v=4",
+      "profile": "https://github.com/1937026980",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
