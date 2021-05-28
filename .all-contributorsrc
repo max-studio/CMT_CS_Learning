@@ -90,6 +90,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "subnav",
+      "name": "subnav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84655991?v=4",
+      "profile": "https://github.com/subnav",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
