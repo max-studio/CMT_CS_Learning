@@ -1,6 +1,27 @@
 # A gitignore file specifies intentionally untracked files that Git should ignore. Files already tracked by Git are not affected;
 # .gitignore 文件指定 Git 应该忽略的故意取消跟踪的文件。已经被 Git 跟踪的文件不会受到影响;
 
-# 编辑器配置文件
-.obsidian
+.DS_Store
+node_modules
+/dist
 
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Package lock
+package-lock.json
