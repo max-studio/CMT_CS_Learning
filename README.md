@@ -92,6 +92,7 @@ v2.0-beta ( November 13th )
     <td align="center"><a href="https://github.com/1937026980"><img src="https://avatars.githubusercontent.com/u/62368540?v=4?s=70" width="70px;" alt=""/><br /><sub><b>1937026980</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=1937026980" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/subnav"><img src="https://avatars.githubusercontent.com/u/84655991?v=4?s=70" width="70px;" alt=""/><br /><sub><b>subnav</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=subnav" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/angelinapond"><img src="https://avatars.githubusercontent.com/u/84655506?v=4?s=70" width="70px;" alt=""/><br /><sub><b>angelinapond</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=angelinapond" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Y334275"><img src="https://avatars.githubusercontent.com/u/32282262?v=4?s=70" width="70px;" alt=""/><br /><sub><b>Nope</b></sub></a><br /><a href="https://github.com/max-studio/CMT_CS_Learning/commits?author=Y334275" title="Documentation">📖</a></td>
   </tr>
 </table>
 
